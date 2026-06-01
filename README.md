@@ -172,19 +172,3 @@ Go to **Section 10** in the notebook and modify the `sample_car` dictionary with
 - [ ] Train on a larger dataset for improved generalisation
 - [ ] Add SHAP values for model explainability
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License — free to use, modify, and distribute.
-
----
-
-## 🙌 Acknowledgements
-
-- Dataset sourced from Kaggle via [amankharwal.com](https://amankharwal.com)
-- Inspired by real-world used car pricing challenges in the Indian automobile market
-
----
-
-<p align="center">Made with ❤️ using Python & Machine Learning</p>
